@@ -1,0 +1,20 @@
+.footer__item {
+    display: flex;
+    margin: 0 18px 0 0;
+}
+
+.footer__item:last-child {
+    margin-right: 0;
+}
+
+@media screen and (max-width: 768px){
+    .footer__item {
+        margin-right: 2.34vw;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .footer__item {
+        margin: 0 0 0;
+    }
+}

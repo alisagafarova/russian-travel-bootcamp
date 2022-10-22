@@ -1,0 +1,24 @@
+.lead__capture {
+    margin: 8px 0 0;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 10px;
+    line-height: 140%;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    
+}
+@media screen and (max-width: 768px){
+    .lead__capture {
+        margin-left: 3.125vw;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .lead__capture {
+        font-size: 3.125vw;
+        margin-left: 5%;
+    }
+}
