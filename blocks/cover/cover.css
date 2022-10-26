@@ -9,11 +9,13 @@
     min-height: 740px;
     position: relative;
     object-fit: cover;
+    align-items: center;
+    justify-content: flex-start;
 }
 
 @media screen and (max-width: 1024px){
     .cover {
-      width:100%;
+      width: 100%;
       min-height: 640px;
     }
 }
@@ -21,15 +23,11 @@
 @media screen and (max-width: 768px){
     .cover {
       margin: 90px auto 0;
-      width:100%;
-      min-height: 62.5vw;
     }
 }
 
 @media screen and (max-width: 320px){
     .cover {
-      width:100%;
-      min-height: 62.5vw;
       margin-top: 66px;
     }
 }

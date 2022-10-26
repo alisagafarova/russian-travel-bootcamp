@@ -1,9 +1,8 @@
 .lead__subtitle {
     max-width: 100%;
     width: 620px;
-    margin: 32px auto 0;
+    margin: 32px auto 0; 
     color: #FFFFFF;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -15,7 +14,6 @@
     .lead__subtitle {
         max-width: 83.3%;
         font-size: 3.9vw;
-        line-height: 120%;
     }
 }
 
