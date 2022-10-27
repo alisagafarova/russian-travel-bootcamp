@@ -3,6 +3,7 @@
     text-decoration: none;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     z-index: 1;
   }
 
@@ -25,6 +26,6 @@
 
 @media screen and (max-width: 1024px){
   .cover__link {
-      min-height: 62.5vw;
+      max-height: 200px;
   }
 }

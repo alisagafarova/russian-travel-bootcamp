@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 550px){
     .place__website-link {
         font-size: 5.625vw;
         width: calc(100% - 16px*2);

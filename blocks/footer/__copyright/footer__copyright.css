@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 550px){
     .footer__copyright {
         font-size: 4.375vw;
         line-height: 100%;

@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 550px){
     .intro__list-item {
         font-size: 3.75vw;
     }

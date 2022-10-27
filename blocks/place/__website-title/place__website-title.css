@@ -16,7 +16,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 550px){
     .place__website-title {
         font-size: 3.75vw;
         width: calc(100% - 16px*2);

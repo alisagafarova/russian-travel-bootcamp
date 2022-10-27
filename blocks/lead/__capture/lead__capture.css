@@ -15,8 +15,9 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 550px){
     .lead__capture {
+        margin: 8px 0 0;
         font-size: 3.125vw;
         margin-left: 5%;
     }
