@@ -12,4 +12,4 @@
 - HTML
 - БЭМ
 
-#### [Ссылка на  проект на github](https://github.com/alisagafarova/russian-travel-bootcamp/blob/main/index.html)
+#### [Ссылка на  проект на github](https://alisagafarova.github.io/russian-travel-bootcamp/index.html)
